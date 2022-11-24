@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #161625;
+  background-size: cover;
+  padding: 30px;
+}
+
+/*.vaccination-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 30px;
+}*/
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.website-logo {
+  height: 30px;
+}
+/*.title {
+  font-size: 20px;
+  font-family: 'roboto';
+  color: #ffffff;
+}*/
+.heading {
+  font-size: 30px;
+  font-family: 'roboto';
+  color: #ffffff;
+}

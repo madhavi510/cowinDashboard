@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+/* Write your CSS here */
+.vaccination-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.title {
+  font-size: 20px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
